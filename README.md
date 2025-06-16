@@ -1,21 +1,21 @@
-# 💫 About Me:
-🛠️ I'm currently working on:<br>Optimizing neural networks to enhance performance and efficiency in real-world applications.<br><br>🤝Collaboration Interests:<br>AI engineering projects,particularly in autonomous systems, neural network optimization, and deep learning.<br><br>🧠  Seeking Help With:<br>Advanced techniques in model compression, quantization, and improving inference speed in real-world applications.<br><br>🌱 Currently learning:<br>New approaches to neural network optimization, reinforcement learning, and sensor fusion techniques for autonomous systems.<br><br>💬 Ask me about:<br>AI in autonomous systems, neural network optimization, and AI-driven sensor technologies.<br><br>⚡ Fun fact:<br>I'm passionate about integrating AI into real-world applications, particularly in self-driving technologies!
-
+#  About Me:
+I'm working on machine learning and deep learning, mainly interested in real-world applications where I can experiment with different models and ideas
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([https://linkedin.com/in/kavin kumar Manielayaperumal ](https://www.linkedin.com/in/kavinkumamanielayaperumal/) ) 
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)([https://linkedin.com/in/kavin kumar Manielayaperumal ] ) 
+## 💻 Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=ONNX&logoColor=white)![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=SciPy&logoColor=white)![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 
-# 💻 Tech Stack:
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kavinkumarManielayaperumal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kavinkumarManielayaperumal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.comkavinkumarManielayaperumal/kavinkumarManielayaperumal/blob/output/github-snake-dark.svg)
