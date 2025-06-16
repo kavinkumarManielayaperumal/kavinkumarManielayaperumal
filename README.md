@@ -18,5 +18,5 @@ I'm working on machine learning and deep learning, mainly interested in real-wor
 [![](https://visitcount.itsvg.in/api?id=kavinkumarManielayaperumal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/kavinkumarManielayaperumal/kavinkumarManielayaperumal/blob/main/github-snake-dark.svg)
+![snake gif](https://github.com/kavinkumarManielayaperumal/kavinkumarManielayaperumal/blob/output/github-snake-dark.svg)
 
