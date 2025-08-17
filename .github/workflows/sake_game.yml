@@ -6,25 +6,25 @@ on:
 
   # Schedule the workflow to run daily at midnight UTC
 
-  schedule:
+  #schedule:
 
-    - cron: "0 0 * * *"
+    #- cron: "0 0 * * *"
 
 
 
   # Allow manual triggering of the workflow
 
-  workflow_dispatch:
+  #workflow_dispatch:
 
 
 
   # Trigger the workflow on pushes to the main branch
 
-  push:
+ # push:
 
-    branches:
+ #   branches:
 
-      - main
+   #   - main
 
 
 
